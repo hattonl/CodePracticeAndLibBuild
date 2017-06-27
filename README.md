@@ -1,0 +1,2 @@
+# LeetCodePractice
+algorithm training log
