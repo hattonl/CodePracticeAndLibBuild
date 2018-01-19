@@ -9,3 +9,12 @@ Linux 中的 initcall 机制 https://xinqiu.gitbooks.io/linux-insides-cn/content
 
 
 
+【嵌入式】基于makefile的STM32编译方法探索  https://www.jianshu.com/p/7f77a5486a26
+
+ keil编译链接过程以及ARMCC、ARMASM、FROMELF、ARMLINK、ARMAR的使用  http://blog.csdn.net/u013904227/article/details/51285511
+ 
+ Makefile 中:= ?= += =的区别  https://www.cnblogs.com/wanqieddy/archive/2011/09/21/2184257.html
+ 
+ keil编译链接过程以及ARMCC、ARMASM、FROMELF、ARMLINK、ARMAR的使用   https://www.2cto.com/kf/201605/504594.html
+ 
+ 
