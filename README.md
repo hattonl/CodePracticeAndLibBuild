@@ -22,3 +22,5 @@ http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/   关于排序算法�
 
 va_start和va_end使用详解  http://www.cnblogs.com/hanyonglu/archive/2011/05/07/2039916.html
 
+https://www.bbsmax.com/A/GBJrWrgB50/  Keil中使用宏编译来定义DEBUG输出
+
