@@ -20,3 +20,5 @@ Linux 中的 initcall 机制 https://xinqiu.gitbooks.io/linux-insides-cn/content
  
 http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/   关于排序算法的总结
 
+va_start和va_end使用详解  http://www.cnblogs.com/hanyonglu/archive/2011/05/07/2039916.html
+
