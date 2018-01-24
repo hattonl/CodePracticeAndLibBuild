@@ -24,3 +24,5 @@ va_start和va_end使用详解  http://www.cnblogs.com/hanyonglu/archive/2011/05/
 
 https://www.bbsmax.com/A/GBJrWrgB50/  Keil中使用宏编译来定义DEBUG输出
 
+
+typedef void (*func)(void *) 的含义
