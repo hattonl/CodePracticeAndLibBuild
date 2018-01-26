@@ -26,3 +26,8 @@ https://www.bbsmax.com/A/GBJrWrgB50/  Keil中使用宏编译来定义DEBUG输出
 
 
 typedef void (*func)(void *) 的含义
+
+
+快速运算之：使用与运算符代替求余运算符的技巧  https://www.cnblogs.com/encode/p/7155147.html
+
+
