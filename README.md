@@ -31,3 +31,5 @@ typedef void (*func)(void *) 的含义
 快速运算之：使用与运算符代替求余运算符的技巧  https://www.cnblogs.com/encode/p/7155147.html
 
 
+https://www.cnblogs.com/Shirlies/p/4282182.html 多文件目录下makefile文件递归执行编译所有c文件
+
