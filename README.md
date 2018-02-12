@@ -33,3 +33,9 @@ typedef void (*func)(void *) 的含义
 
 https://www.cnblogs.com/Shirlies/p/4282182.html 多文件目录下makefile文件递归执行编译所有c文件
 
+STM32F1做RSA，AES数据加解密，MD5信息摘要处理  http://blog.csdn.net/qq_31878855/article/details/69396791
+
+http://cryptosource.de/product_flea_en.html
+
+stm32加密库中的坑：需要是能crc的时钟，否则sha结果不正确。
+
