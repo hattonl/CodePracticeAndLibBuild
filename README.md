@@ -40,3 +40,9 @@ http://cryptosource.de/product_flea_en.html
 stm32加密库中的坑：需要是能crc的时钟，否则sha结果不正确。
 
 https://www.gnu.org/software/make/manual/make.html  GUN make makefile的主要学习资料
+
+密钥协商中对中间人攻击的防范：
+https://qingfeng14.github.io/article/%E5%AF%86%E7%A0%81%E5%AD%A6%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%A4%A7%E4%BD%9C%E4%B8%9A.html
+
+各种加密算法比较
+http://www.cnblogs.com/sunxuchu/p/5483956.html
