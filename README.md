@@ -46,3 +46,7 @@ https://qingfeng14.github.io/article/%E5%AF%86%E7%A0%81%E5%AD%A6%E7%AC%AC%E4%B8%
 
 各种加密算法比较
 http://www.cnblogs.com/sunxuchu/p/5483956.html
+
+Curve25519: new Diffie-Hellman speed records
+https://cr.yp.to/ecdh/curve25519-20060209.pdf
+
