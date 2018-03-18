@@ -14,23 +14,30 @@ bool canJump(int* nums, int numsSize) {
     for (jumpNum = zeroNum = i = 0; i < numsSize; i++)
     {
         if(nums[i] == 0) {
-            if(i == 0)
-                return false;
+            if(i == 0) {
+                if (numsSize == 1)
+                    return true;
+                else 
+                    return false;
+            }
             else {
                 jumpNum = nums[i-1];
                 zeroNum = 1;
                 i++;
                 while (nums[i] == 0 && i < numsSize) {
                     zeroNum ++;
+                    i++;
                 }
-                if (jumpNum <= zeroNum)
-                    return false;
-                else {
-                    jumpNum = 0;
-                    zeroNum = 0;
-                    if (i >= numsSize)
-                        break;
+
+                if (i >= numsSize) {
+                    if (jumpNum >= zeroNum)
+                        continue;
+                } else {
+                    if (jumpNum <= zeroNum)
+                        return false;
                     else
+                        jumpNum = 0;
+                        zeroNum = 0;
                         continue;
                 }
             }
@@ -52,4 +59,4 @@ bool canJump(int* nums, int numsSize) {
  
  */
 
-
+// 答案错误，尚未解决
